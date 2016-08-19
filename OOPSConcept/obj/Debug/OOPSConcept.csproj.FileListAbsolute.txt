@@ -1,0 +1,6 @@
+E:\Nikita\DemoProjects\OOPSConcept\OOPSConcept\bin\Debug\OOPSConcept.exe.config
+E:\Nikita\DemoProjects\OOPSConcept\OOPSConcept\bin\Debug\OOPSConcept.exe
+E:\Nikita\DemoProjects\OOPSConcept\OOPSConcept\bin\Debug\OOPSConcept.pdb
+E:\Nikita\DemoProjects\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.csprojResolveAssemblyReference.cache
+E:\Nikita\DemoProjects\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.exe
+E:\Nikita\DemoProjects\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.pdb
