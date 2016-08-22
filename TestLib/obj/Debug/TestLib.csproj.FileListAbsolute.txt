@@ -1,0 +1,5 @@
+E:\Nikita\DemoProjects\OOPSConcept\TestLib\bin\Debug\TestLib.dll
+E:\Nikita\DemoProjects\OOPSConcept\TestLib\bin\Debug\TestLib.pdb
+E:\Nikita\DemoProjects\OOPSConcept\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+E:\Nikita\DemoProjects\OOPSConcept\TestLib\obj\Debug\TestLib.dll
+E:\Nikita\DemoProjects\OOPSConcept\TestLib\obj\Debug\TestLib.pdb

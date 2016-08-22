@@ -1,0 +1,4 @@
+E:\Nikita\DemoProjects\OOPSConcept\TestApp\bin\Debug\TestApp.dll
+E:\Nikita\DemoProjects\OOPSConcept\TestApp\bin\Debug\TestApp.pdb
+E:\Nikita\DemoProjects\OOPSConcept\TestApp\obj\Debug\TestApp.dll
+E:\Nikita\DemoProjects\OOPSConcept\TestApp\obj\Debug\TestApp.pdb

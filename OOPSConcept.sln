@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSConcept", "OOPSConcept\OOPSConcept.csproj", "{80F99D65-7F17-43C9-AB71-DB0CAA0868C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLib", "TestLib\TestLib.csproj", "{DBDA1FC3-F638-478F-B0D2-1086D2FE87E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{80F99D65-7F17-43C9-AB71-DB0CAA0868C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F99D65-7F17-43C9-AB71-DB0CAA0868C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F99D65-7F17-43C9-AB71-DB0CAA0868C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDA1FC3-F638-478F-B0D2-1086D2FE87E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDA1FC3-F638-478F-B0D2-1086D2FE87E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDA1FC3-F638-478F-B0D2-1086D2FE87E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDA1FC3-F638-478F-B0D2-1086D2FE87E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
